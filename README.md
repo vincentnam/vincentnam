@@ -42,12 +42,7 @@ Others techno :
 [![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white)](#)
 
 
-## Research
-
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GDU4JakAAAAJ)
-
-
-
+## Research [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GDU4JakAAAAJ)
 $${\color{green}2024}$$
 - 
 
