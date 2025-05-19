@@ -15,7 +15,7 @@ Top techno :
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-
+![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 
 Others techno : 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
@@ -47,25 +47,30 @@ Others techno :
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GDU4JakAAAAJ)
 
 
-Thesis (2024 - French) :
-[![GitBook](https://img.shields.io/badge/Recherche%20de%20donn%C3%A9es%20interdisciplinaire%20dans%20la%20Science%20Ouverte-3884FF?logo=gitbook&logoColor=fff)](https://hal.science/tel-04902377/document)
 
-2024 :
-- [![Article](https://img.shields.io/badge/Enabling_interdisciplinary_research_in_open_science:_Open_science_data_network-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654392v1/file/VND_RCIS_2024_ex_EDBT-final1.pdf)
-- [![Article](https://img.shields.io/badge/OSDN%3A%20an%20open%20science%20data%20network%20for%20interdisciplinary%20research-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654699/document)
+$${\color{green}2024}$$
+- 
 
-2023 :
-- [![Article](https://img.shields.io/badge/Multi--disciplinary_Research:_Open_Science_Data_Lake-blue?logo=researchgate&style=flat)](https://hal.science/hal-04240343/document)
-- [![Article](https://img.shields.io/badge/Interoperability%20of%20Open%20Science%20Metadata%3A%20What%20About%20the%20Reality%3F-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Nathalie-Aussenac-Gilles/publication/370973429_Interoperability_of_Open_Science_Metadata_What_About_the_Reality/links/65f8565a286738732d5ccd82/Interoperability-of-Open-Science-Metadata-What-About-the-Reality.pdf)
+$${\color{white}Thesis \space (French)}$$ [![GitBook](https://img.shields.io/badge/Recherche%20de%20donn%C3%A9es%20interdisciplinaire%20dans%20la%20Science%20Ouverte-3884FF?logo=gitbook&logoColor=fff)](https://hal.science/tel-04902377/document)
+
+[![Article](https://img.shields.io/badge/Enabling_interdisciplinary_research_in_open_science:_Open_science_data_network-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654392v1/file/VND_RCIS_2024_ex_EDBT-final1.pdf)
+[![Article](https://img.shields.io/badge/OSDN%3A%20an%20open%20science%20data%20network%20for%20interdisciplinary%20research-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654699/document)
 
 
-2021 : 
-- [![Article](https://img.shields.io/badge/A%20zone_based%20data%20lake%20architecture%20for%20IoT,%20small%20and%20big%20data-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Vincent-Nam-Dang/publication/354430470_A_Zone-Based_Data_Lake_Architecture_for_IoT_Small_and_Big_Data/links/635535118d4484154a2915cd/A-Zone-Based-Data-Lake-Architecture-for-IoT-Small-and-Big-Data.pdf)
+$${\color{green}2023}$$
+- 
+
+[![Article](https://img.shields.io/badge/Multi--disciplinary_Research:_Open_Science_Data_Lake-blue?logo=researchgate&style=flat)](https://hal.science/hal-04240343/document)
+[![Article](https://img.shields.io/badge/Interoperability%20of%20Open%20Science%20Metadata%3A%20What%20About%20the%20Reality%3F-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Nathalie-Aussenac-Gilles/publication/370973429_Interoperability_of_Open_Science_Metadata_What_About_the_Reality/links/65f8565a286738732d5ccd82/Interoperability-of-Open-Science-Metadata-What-About-the-Reality.pdf)
+
+$${\color{green}2021}$$
+- 
+
+[![Article](https://img.shields.io/badge/A%20zone_based%20data%20lake%20architecture%20for%20IoT,%20small%20and%20big%20data-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Vincent-Nam-Dang/publication/354430470_A_Zone-Based_Data_Lake_Architecture_for_IoT_Small_and_Big_Data/links/635535118d4484154a2915cd/A-Zone-Based-Data-Lake-Architecture-for-IoT-Small-and-Big-Data.pdf)
 
 
 
-
-## Data lake repository (main repo)
+## [Data lake repository (main repo)](https://github.com/vincentnam/docker_datalake)
 ![Stars](https://img.shields.io/github/stars/vincentnam/docker_datalake?style=social)    ![Forks](https://img.shields.io/github/forks/vincentnam/docker_datalake?style=social)   ![Watchers](https://img.shields.io/github/watchers/vincentnam/docker_datalake)   ![Collaborateurs](https://img.shields.io/github/contributors/vincentnam/docker_datalake?style=flat)
 
 
@@ -87,6 +92,8 @@ Thesis (2024 - French) :
 ![Nombre de langages](https://img.shields.io/github/languages/count/vincentnam/docker_datalake?style=flat)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
