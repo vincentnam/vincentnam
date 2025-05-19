@@ -1,5 +1,3 @@
-# PhD fullstack data architect
-
 ## Techno
 
 Top techno : 
