@@ -71,7 +71,7 @@ $${\color{green}2021}$$
 
 ![Statut de maintenance](https://img.shields.io/maintenance/yes/2025?style=flat)
 
-![Commits](https://img.shields.io/github/commit-activity/m/vincentnam/docker_datalake?style=flat)
+![Commits](https://img.shields.io/github/commit-activity/t/vincentnam/docker_datalake?style=flat)
 ![Issues](https://img.shields.io/github/issues/vincentnam/docker_datalake?style=flat)
 ![Issues fermées](https://img.shields.io/github/issues-closed/vincentnam/docker_datalake?style=flat)
 ![Pull Requests](https://img.shields.io/github/issues-pr/vincentnam/docker_datalake?style=flat)
