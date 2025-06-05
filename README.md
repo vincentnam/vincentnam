@@ -43,22 +43,22 @@ Others techno :
 
 
 ## Research [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GDU4JakAAAAJ)
-$${\color{green}2024}$$
+$${2024}$$
 - 
 
-$${\color{white}Thesis \space (French)}$$ [![GitBook](https://img.shields.io/badge/Recherche%20de%20donn%C3%A9es%20interdisciplinaire%20dans%20la%20Science%20Ouverte-3884FF?logo=gitbook&logoColor=fff)](https://hal.science/tel-04902377/document)
+$${Thesis \space (French)}$$ [![GitBook](https://img.shields.io/badge/Recherche%20de%20donn%C3%A9es%20interdisciplinaire%20dans%20la%20Science%20Ouverte-3884FF?logo=gitbook&logoColor=fff)](https://hal.science/tel-04902377/document)
 
 [![Article](https://img.shields.io/badge/Enabling_interdisciplinary_research_in_open_science:_Open_science_data_network-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654392v1/file/VND_RCIS_2024_ex_EDBT-final1.pdf)
 [![Article](https://img.shields.io/badge/OSDN%3A%20an%20open%20science%20data%20network%20for%20interdisciplinary%20research-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654699/document)
 
 
-$${\color{green}2023}$$
+$${2023}$$
 - 
 
 [![Article](https://img.shields.io/badge/Multi--disciplinary_Research:_Open_Science_Data_Lake-blue?logo=researchgate&style=flat)](https://hal.science/hal-04240343/document)
 [![Article](https://img.shields.io/badge/Interoperability%20of%20Open%20Science%20Metadata%3A%20What%20About%20the%20Reality%3F-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Nathalie-Aussenac-Gilles/publication/370973429_Interoperability_of_Open_Science_Metadata_What_About_the_Reality/links/65f8565a286738732d5ccd82/Interoperability-of-Open-Science-Metadata-What-About-the-Reality.pdf)
 
-$${\color{green}2021}$$
+$${2021}$$
 - 
 
 [![Article](https://img.shields.io/badge/A%20zone_based%20data%20lake%20architecture%20for%20IoT,%20small%20and%20big%20data-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Vincent-Nam-Dang/publication/354430470_A_Zone-Based_Data_Lake_Architecture_for_IoT_Small_and_Big_Data/links/635535118d4484154a2915cd/A-Zone-Based-Data-Lake-Architecture-for-IoT-Small-and-Big-Data.pdf)
