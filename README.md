@@ -41,27 +41,34 @@ Others techno :
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white)](#)
 
+$${2025}$$
+- 
+  [![Article](https://img.shields.io/badge/Unified_access_to_interdisciplinary_open_data_platforms:_Open_science_data_network-blue?logo=elsevier&style=flat)](https://www.sciencedirect.com/science/article/pii/S0169023X25001478#d1e8008) : Invitation to contribute to an extension of the article “Enabling interdisciplinary research in open science: Open science data network” - Data and Knowledge Engineering journal (formerly Q1): news experiments, new/extended sections; theme: data exchange, interoperability, overlay data network, decentralization, Open Science
+
 
 ## Research [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GDU4JakAAAAJ)
 $${2024}$$
 - 
 
+
 $${Thesis \space (French)}$$ [![GitBook](https://img.shields.io/badge/Recherche%20de%20donn%C3%A9es%20interdisciplinaire%20dans%20la%20Science%20Ouverte-3884FF?logo=gitbook&logoColor=fff)](https://hal.science/tel-04902377/document)
 
-[![Article](https://img.shields.io/badge/Enabling_interdisciplinary_research_in_open_science:_Open_science_data_network-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654392v1/file/VND_RCIS_2024_ex_EDBT-final1.pdf)
-[![Article](https://img.shields.io/badge/OSDN%3A%20an%20open%20science%20data%20network%20for%20interdisciplinary%20research-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654699/document)
+[![Article](https://img.shields.io/badge/Enabling_interdisciplinary_research_in_open_science:_Open_science_data_network-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654392v1/file/VND_RCIS_2024_ex_EDBT-final1.pdf) : RCIS 2024 - theme: data exchange, interoperability, overlay data network, decentralization, Open Science
+
+
+[![Article](https://img.shields.io/badge/OSDN%3A%20an%20open%20science%20data%20network%20for%20interdisciplinary%20research-blue?logo=researchgate&style=flat)](https://hal.science/hal-04654699/document) : DASFAA 2024 (demonstration paper) - theme: data exchange, interoperability, overlay data network, decentralization, Open Science
 
 
 $${2023}$$
 - 
 
-[![Article](https://img.shields.io/badge/Multi--disciplinary_Research:_Open_Science_Data_Lake-blue?logo=researchgate&style=flat)](https://hal.science/hal-04240343/document)
-[![Article](https://img.shields.io/badge/Interoperability%20of%20Open%20Science%20Metadata%3A%20What%20About%20the%20Reality%3F-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Nathalie-Aussenac-Gilles/publication/370973429_Interoperability_of_Open_Science_Metadata_What_About_the_Reality/links/65f8565a286738732d5ccd82/Interoperability-of-Open-Science-Metadata-What-About-the-Reality.pdf)
+[![Article](https://img.shields.io/badge/Multi--disciplinary_Research:_Open_Science_Data_Lake-blue?logo=researchgate&style=flat)](https://hal.science/hal-04240343/document) : ADBIS 2023 - theme : data exchange, interoperability, datalake, Open Science
+[![Article](https://img.shields.io/badge/Interoperability%20of%20Open%20Science%20Metadata%3A%20What%20About%20the%20Reality%3F-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Nathalie-Aussenac-Gilles/publication/370973429_Interoperability_of_Open_Science_Metadata_What_About_the_Reality/links/65f8565a286738732d5ccd82/Interoperability-of-Open-Science-Metadata-What-About-the-Reality.pdf) :  RCIS 2023 - theme : interoperability, evaluation 
 
 $${2021}$$
 - 
 
-[![Article](https://img.shields.io/badge/A%20zone_based%20data%20lake%20architecture%20for%20IoT,%20small%20and%20big%20data-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Vincent-Nam-Dang/publication/354430470_A_Zone-Based_Data_Lake_Architecture_for_IoT_Small_and_Big_Data/links/635535118d4484154a2915cd/A-Zone-Based-Data-Lake-Architecture-for-IoT-Small-and-Big-Data.pdf)
+[![Article](https://img.shields.io/badge/A%20zone_based%20data%20lake%20architecture%20for%20IoT,%20small%20and%20big%20data-blue?logo=researchgate&style=flat)](https://www.researchgate.net/profile/Vincent-Nam-Dang/publication/354430470_A_Zone-Based_Data_Lake_Architecture_for_IoT_Small_and_Big_Data/links/635535118d4484154a2915cd/A-Zone-Based-Data-Lake-Architecture-for-IoT-Small-and-Big-Data.pdf) : ADBIS 2021 - theme : metadata, datalake, multi-sources
 
 
 
@@ -80,7 +87,7 @@ $${2021}$$
 ![Taille du dépôt](https://img.shields.io/github/repo-size/vincentnam/docker_datalake?style=flat)
 ![Dernier commit](https://img.shields.io/github/last-commit/vincentnam/docker_datalake?style=flat)
 
-![Licence](https://img.shields.io/github/license/vincentnam/docker_datalake?style=flat)
+![Licence](https://img.shields.io/github/license/vincentnam/docker_datalake?style=flat)(SSPL)
 
 
 
