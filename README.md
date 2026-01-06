@@ -76,7 +76,7 @@ $${2021}$$
 ![Stars](https://img.shields.io/github/stars/vincentnam/docker_datalake?style=social)    ![Forks](https://img.shields.io/github/forks/vincentnam/docker_datalake?style=social)   ![Watchers](https://img.shields.io/github/watchers/vincentnam/docker_datalake)   ![Collaborateurs](https://img.shields.io/github/contributors/vincentnam/docker_datalake?style=flat)
 
 
-![Statut de maintenance](https://img.shields.io/maintenance/yes/2025?style=flat)
+![Statut de maintenance](https://img.shields.io/maintenance/yes/2025?style=flat) (Currently being reworked on a sub-branch - 2026)
 
 ![Commits](https://img.shields.io/github/commit-activity/t/vincentnam/docker_datalake?style=flat)
 ![Issues](https://img.shields.io/github/issues/vincentnam/docker_datalake?style=flat)
